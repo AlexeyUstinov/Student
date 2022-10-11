@@ -1,4 +1,5 @@
 123
+New string
 456
 789.
 "Add Line" 
